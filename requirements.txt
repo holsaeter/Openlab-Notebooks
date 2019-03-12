@@ -11,6 +11,7 @@ matplotlib>=2.2.2
 notebook>=5.4.1
 numpy>=1.14.2
 oauthlib>=2.0.7
+openlab>=2.2.8
 requests>=2.20.0
 requests-oauthlib>=0.4.0
 urllib3>=1.22
